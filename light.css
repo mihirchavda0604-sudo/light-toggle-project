@@ -1,0 +1,22 @@
+body{
+    background: black;
+    color: white;
+    
+}
+div{
+    margin: 20rem 30rem;
+    width: 30rem;
+    /* background-color: rebeccapurple; */
+}
+
+button{
+    margin-left: 11.5rem ;
+    font-size: 1rem;
+    padding: 0.4rem 1.4rem;
+}
+
+p{
+    margin-left: 2rem;
+    font-size: 1.3rem;
+
+}
